@@ -1,0 +1,6 @@
+[submodule "flickpick-front"]
+	path = flickpick-front
+	url = https://github.com/euphoricdesign/flickpick-front.git
+[submodule "flickpick-back"]
+	path = flickpick-back
+	url = https://github.com/euphoricdesign/flickpick-back.git
